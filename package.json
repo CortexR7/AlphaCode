@@ -1,0 +1,21 @@
+{
+  "name": "alphacode",
+  "displayName": "AlphaCode",
+  "description": "This is a C/C++ color theme with transparency",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AlphaCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AlphaCode-color-theme.json"
+      }
+    ]
+  }
+}
