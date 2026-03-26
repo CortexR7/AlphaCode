@@ -2,6 +2,7 @@
   "name": "alphacode",
   "displayName": "AlphaCode",
   "description": "This is a C/C++ color theme with transparency",
+  "publisher": "CortexR7",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.110.0"
