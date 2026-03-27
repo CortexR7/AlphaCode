@@ -2,6 +2,9 @@
 All notable changes to the "alphacode" extension will be documented in this file.
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4] - 2026-03-27
+- Adding icon to the theme
+
 ## [0.0.3] - 2026-03-27
 ###
 - Fixing a very misleading description for the color theme.

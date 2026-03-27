@@ -1,9 +1,10 @@
 {
   "name": "alphacode",
+  "icon": "icon.png",
   "displayName": "AlphaCode",
   "description": "This is a C/C++ color theme with high contrast",
   "publisher": "CortexR7",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.110.0"
   },
