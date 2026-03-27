@@ -5,7 +5,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.3] - 2026-03-27
 ###
 - Fixing a very misleading description for the color theme.
-- The color theme aims to have high contrast. Transparency ia a whole differeny thing.
+- The color theme aims to have high contrast. Transparency ia a whole different thing.
 
 ## [0.0.2] - 2026-03-27
 ### Changed
