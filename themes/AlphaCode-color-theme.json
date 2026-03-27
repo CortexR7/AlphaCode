@@ -44,7 +44,7 @@
 		"editorWidget.border": "#3B3CF5",
 		"editorWidget.background": "#000000",
 		"focusBorder": "#3B3CF5",
-		"tree.indentGuidesStroke": "#3B3CF5",
+		"tree.indentGuidesStroke": "#bdb5c8",
 		"scrollbar.shadow": "#000000",
 		"widget.shadow": "#000000",
 		"badge.foreground": "#000000",
@@ -58,7 +58,8 @@
 		"menu.separatorBackground": "#000000",
 		"menubar.selectionForeground": "#783BF5",
 		"menubar.selectionBackground": "#000000",
-		"menubar.selectionBorder": "#783BF5"
+		"menubar.selectionBorder": "#783BF5",
+		"list.hoverForeground": "#3B3CF5",
 	},
 	"tokenColors": [
 		{

@@ -2,6 +2,10 @@
 All notable changes to the "alphacode" extension will be documented in this file.
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.5] - 2026-03-27
+- Adding a new hovering color when moving the curser over the displayed files inside the file explorer
+- Adding a new more detailed README with previews
+
 ## [0.0.4] - 2026-03-27
 - Adding icon to the theme
 
