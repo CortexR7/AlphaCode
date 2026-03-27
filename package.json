@@ -1,7 +1,7 @@
 {
   "name": "alphacode",
   "displayName": "AlphaCode",
-  "description": "This is a C/C++ color theme with transparency",
+  "description": "This is a C/C++ color theme with high contrast",
   "publisher": "CortexR7",
   "version": "0.0.2",
   "engines": {
