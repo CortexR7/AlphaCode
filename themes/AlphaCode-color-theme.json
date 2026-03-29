@@ -1,7 +1,7 @@
 {
 	"name": "AlphaCode",
 	"colors": {
-		"editor.foreground": "#3B3CF5",
+		"editor.foreground": "#bdb5c8",
 		"editor.background": "#000000",
 		"sideBarTitle.foreground": "#3B76F5",
 		"activityBarBadge.background": "#783BF5",
@@ -60,6 +60,15 @@
 		"menubar.selectionBackground": "#000000",
 		"menubar.selectionBorder": "#783BF5",
 		"list.hoverForeground": "#3B3CF5",
+		"editorSuggestWidget.background": "#000000",
+		"editorSuggestWidget.border": "#000000",
+		"editorSuggestWidget.selectedBackground": "#131357", 	
+		"editorSuggestWidget.selectedForeground": "#bdb5c8",
+		"editorSuggestWidget.focusHighlightForeground": "#f700ff",
+		"editorSuggestWidget.foreground": "#783BF5",
+		"editorSuggestWidgetStatus.foreground": "#783BF5",
+		"editorSuggestWidget.selectedIconForeground": "#ff0077",
+		"editorSuggestWidget.highlightForeground": "#f700ff",
 	},
 	"tokenColors": [
 		{
